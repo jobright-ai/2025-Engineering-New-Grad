@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Energy](https://www.siemens-energy.com/)** | **[Early Career Field Service Engineer Training Program](https://jobright.ai/jobs/info/68c08fec702aa35207aae994?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[Surveyor](https://jobright.ai/jobs/info/68d4eb6e24b1ee4c7b661e0d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Morenci, AZ | On Site | Oct 22 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Office Engineer](https://jobright.ai/jobs/info/68665b3d496d8b6c65fc44f4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | On Site | Oct 22 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Machining Tech I- 2nd Shift](https://jobright.ai/jobs/info/68c0cc4e8e65e77df55c4772?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fullerton, CA | On Site | Oct 22 |
+| ↳ | **[2nd Shift, Processing Tech](https://jobright.ai/jobs/info/68c299358753a565272fc30f?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | City of Industry, CA | On Site | Oct 22 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Bismarck](https://jobright.ai/jobs/info/68948f8b4ed2ea559ca4e887?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Bismarck, ND | On Site | Oct 22 |
 | **[Newly Weds Foods](http://www.newlywedsfoods.com)** | **[Sensory Scientist](https://jobright.ai/jobs/info/68d02acb846f0b04af687e61?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Chicago, IL | On Site | Oct 22 |
 | **[Guthrie](http://www.guthrie.org)** | **[Bone Density Technologist](https://jobright.ai/jobs/info/68c090395c5d5f14f46df337?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Binghamton, NY | On Site | Oct 22 |
@@ -127,7 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Engineer](https://jobright.ai/jobs/info/68d7755e295f8e37655d9cf3?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | Hybrid | Oct 17 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Associate Specialist, Engineering - Rotational Program (Hybrid)](https://jobright.ai/jobs/info/68ba39606105227d1189c08b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Durham, NC | Hybrid | Oct 17 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Assembler/Tester (Swing Shift)](https://jobright.ai/jobs/info/68ba6c1c6105227d1189ddd7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Ogden, UT | On Site | Oct 17 |
-| **[KELLER](http://www.keller.co.uk)** | **[Field Engineer](https://jobright.ai/jobs/info/68d612c263d77d6f6f3f4348?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Francisco, CA | On Site | Oct 17 |
+| **[KELLER](https://www.keller.com.au/)** | **[Field Engineer](https://jobright.ai/jobs/info/68d612c263d77d6f6f3f4348?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Francisco, CA | On Site | Oct 17 |
 | **[KLA](https://www.kla.com)** | **[Electrical Design Engineer (E)](https://jobright.ai/jobs/info/68659a3793323b528db99bd4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Ann Arbor, MI | On Site | Oct 17 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Chattanooga](https://jobright.ai/jobs/info/689731391b9e81727f195dad?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Chattanooga, TN | On Site | Oct 17 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Civil Design Engineer](https://jobright.ai/jobs/info/689bbbcefaa4e875e82631bb?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Johnstown, CO | Hybrid | Oct 17 |
@@ -151,6 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Utility Packaging](https://jobright.ai/jobs/info/68d780837a37c712687cfc16?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | American Falls, ID | On Site | Oct 16 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Ultrasound Technologist- Women's Health Reproductive Clinic- FT](https://jobright.ai/jobs/info/68d77c487a37c712687cf0da?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Sioux Falls, SD | On Site | Oct 16 |
 | **[University of Southern California](http://www.usc.edu)** | **[Grounds Staff, LA Memorial Coliseum](https://jobright.ai/jobs/info/6863199bf31c4006c6c39f97?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | LA Metro Area | On Site | Oct 16 |
-| **[Nelson Labs](http://www.nelsonlabs.com)** | **[Lab Analyst (Day Shift)](https://jobright.ai/jobs/info/68cf33ae846f0b04af67fc35?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | SLC Metro Area | On Site | Oct 16 |
-| **[Roux](http://www.rouxinc.com/)** | **[Staff Environmental Engineer II](https://jobright.ai/jobs/info/68cf7b3dfb49c96ca6ea8d6c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Burbank, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
