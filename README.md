@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Equipment Tech](https://jobright.ai/jobs/info/68c207984d652f044775c803?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | West Chester, OH | On Site | Oct 23 |
 | **[Siemens Energy](https://www.siemens-energy.com/)** | **[Early Career Field Service Engineer Training Program](https://jobright.ai/jobs/info/68c08fec702aa35207aae994?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
+| **[Camping World](http://www.campingworld.com/)** | **[Maintenance Tech](https://jobright.ai/jobs/info/67f9a68a772d7ef9b8a507da?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Bossier City, LA | On Site | Oct 23 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[Surveyor](https://jobright.ai/jobs/info/68d4eb6e24b1ee4c7b661e0d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Morenci, AZ | On Site | Oct 22 |
+| **[Invitation Homes](http://invitationhomes.com/)** | **[Maintenance Tech - Preferred in Maricopa County](https://jobright.ai/jobs/info/68c04caf8e65e77df55bfe30?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Tempe, AZ | On Site | Oct 22 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Office Engineer](https://jobright.ai/jobs/info/68665b3d496d8b6c65fc44f4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | On Site | Oct 22 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Machining Tech I- 2nd Shift](https://jobright.ai/jobs/info/68c0cc4e8e65e77df55c4772?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fullerton, CA | On Site | Oct 22 |
 | ↳ | **[2nd Shift, Processing Tech](https://jobright.ai/jobs/info/68c299358753a565272fc30f?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | City of Industry, CA | On Site | Oct 22 |
@@ -148,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[National Audubon Society](http://www.audubon.org)** | **[Associate, Raptor Rehabilitation](https://jobright.ai/jobs/info/68b904275b42bc4562829b57?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Maitland, FL | Hybrid | Oct 16 |
 | **[Natera](https://www.natera.com/)** | **[Histotechnologist](https://jobright.ai/jobs/info/68c4e878c96a22563ece3c31?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Carlos, CA | On Site | Oct 16 |
 | **[STV](http://www.stvinc.com/)** | **[Engineering Specialist l](https://jobright.ai/jobs/info/67f0d6d144306c2816717d8f?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Douglassville, PA | On Site | Oct 16 |
-| **[GVW Group](https://www.gvwgroup.com/)** | **[Production Employee](https://jobright.ai/jobs/info/68d196558c62e63bc7fcd04c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hagerstown, IN | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
