@@ -154,7 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Roux](http://www.rouxinc.com/)** | **[Staff Environmental Engineer II](https://jobright.ai/jobs/info/68cf7b3dfb49c96ca6ea8d6c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Burbank, CA | On Site | Oct 16 |
 | ↳ | **[Staff Geologist / Scientist I](https://jobright.ai/jobs/info/68cce5f177add66568abb8e4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Burbank, CA | Hybrid | Oct 16 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - State College](https://jobright.ai/jobs/info/68919bcef5ee707a15dc0a27?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | State College, PA | On Site | Oct 16 |
-| ↳ | **[LeafFilter - Installer - Erie](https://jobright.ai/jobs/info/68d00c56fb49c96ca6eada50?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Erie, PA | On Site | Oct 16 |
-| **[Guthrie](http://www.guthrie.org)** | **[MRI technologist - FT night (Sun-Thurs 10p-6a)](https://jobright.ai/jobs/info/6863482375a7d35fe59d54f7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Corning, NY | On Site | Oct 16 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Field Engineer - Construction Management](https://jobright.ai/jobs/info/68d0067edbd9fb154edeceaf?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Springfield, IL | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
