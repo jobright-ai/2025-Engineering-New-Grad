@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Data Engineer Graduate (E-commerce) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68c64a59db52c07d28846bc9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Seattle, WA | On Site | Oct 24 |
+| **[Cooley LLP](http://www.cooley.com)** | **[Patent Agent/Advisor (Electrical/Mechanical)](https://jobright.ai/jobs/info/68b3d6a8f4e41a61efd8ab9c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Washington, DC | On Site | Oct 23 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Equipment Tech](https://jobright.ai/jobs/info/68c207984d652f044775c803?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | West Chester, OH | On Site | Oct 23 |
 | **[Amazon](https://amazon.com)** | **[Dev Harnessing Tech II, Dev ops](https://jobright.ai/jobs/info/68c0bbe15c5d5f14f46e0a3c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Redmond, WA | On Site | Oct 23 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Hagerstown](https://jobright.ai/jobs/info/68cd4a5b1ad6b16f028978ed?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hagerstown, MD | On Site | Oct 23 |
@@ -118,7 +119,4 @@ For a complete list, click the following sortable link below:
 | **[UNC Health](https://www.unchealth.org)** | **[Vascular Technologist - Rex Vascular Wakefield](https://jobright.ai/jobs/info/68d68c9fd3fe025a3015a639?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raleigh, NC | On Site | Oct 18 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Setter](https://jobright.ai/jobs/info/68be8eaee57feb02eb0af378?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | New York, NY | On Site | Oct 17 |
 | **[Pilgrim's](http://www.pilgrims.com/)** | **[Breeder/Laborer - Days](https://jobright.ai/jobs/info/68d66759894705799a2eb768?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Arcadia, WI | On Site | Oct 17 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Wrangler](https://jobright.ai/jobs/info/68cd80531ad6b16f0289a622?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Santa Barbara, CA | On Site | Oct 17 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[CT Technologist Nights $7500 Bonus](https://jobright.ai/jobs/info/68d776737a37c712687cda21?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Sandy, UT | On Site | Oct 17 |
-| **[Walmart](http://www.walmart.com)** | **[Remodel Team Associate](https://jobright.ai/jobs/info/68b9b5705f383274918601d3?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, MN | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
