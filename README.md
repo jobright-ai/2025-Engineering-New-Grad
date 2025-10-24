@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Environmental Tech 1, Environmental Services, Per Diem, 6:30A-3P](https://jobright.ai/jobs/info/68c654af7d0db41142738b0e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Miami, FL | On Site | Oct 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Engineer Graduate (E-commerce) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68c64a59db52c07d28846bc9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Seattle, WA | On Site | Oct 24 |
 | **[Cooley LLP](http://www.cooley.com)** | **[Patent Agent/Advisor (Electrical/Mechanical)](https://jobright.ai/jobs/info/68b3d6a8f4e41a61efd8ab9c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Washington, DC | On Site | Oct 23 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Geotechnical Engineer](https://jobright.ai/jobs/info/68665b3d496d8b6c65fc436f?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Reno, NV | On Site | Oct 23 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Fairfield](https://jobright.ai/jobs/info/689724a473b3a600fe89331d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fairfield, OH | On Site | Oct 23 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Equipment Tech](https://jobright.ai/jobs/info/68c207984d652f044775c803?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | West Chester, OH | On Site | Oct 23 |
 | **[Amazon](https://amazon.com)** | **[Dev Harnessing Tech II, Dev ops](https://jobright.ai/jobs/info/68c0bbe15c5d5f14f46e0a3c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Redmond, WA | On Site | Oct 23 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Hagerstown](https://jobright.ai/jobs/info/68cd4a5b1ad6b16f028978ed?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hagerstown, MD | On Site | Oct 23 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Structural Engineer 2 - Nuclear](https://jobright.ai/jobs/info/68bf78ac8e65e77df55ba829?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Wilmington, DE | Hybrid | Oct 21 |
 | **[Robinson Brothers Construction, LLC](https://www.rbc-utility.com)** | **[TRAVELING Operator - Telecom Experienced](https://jobright.ai/jobs/info/68bf999f8e65e77df55bbd06?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Prineville, OR | On Site | Oct 21 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[OR Technologist](https://jobright.ai/jobs/info/68850c044174df41e0f95e8d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lakewood, NJ | On Site | Oct 21 |
-| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Environmental Svcs Tech](https://jobright.ai/jobs/info/68cef066dbd9fb154ede3acd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hixson, TN | On Site | Oct 20 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/66c561eb60544c52d762dcfa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Baltimore, MD | On Site | Oct 20 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Mobile Vehicle Mechanic](https://jobright.ai/jobs/info/68d927bf9a8e451a446a44a4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Tukwila, WA | On Site | Oct 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/68cefe32dbd9fb154ede415d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 19 |
@@ -117,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Schaeffler](https://www.schaeffler.us)** | **[Production Techn. I - Cheraw 1 - 3rd Shift](https://jobright.ai/jobs/info/689ceca183d13d1f5b6ac111?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Cheraw, SC | On Site | Oct 18 |
 | **[Year Up United](http://yearup.org)** | **[Entry Level Application Development Opportunity](https://jobright.ai/jobs/info/68ac9f9e758f2e4ac3007074?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | On Site | Oct 18 |
 | **[UNC Health](https://www.unchealth.org)** | **[Vascular Technologist - Rex Vascular Wakefield](https://jobright.ai/jobs/info/68d68c9fd3fe025a3015a639?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raleigh, NC | On Site | Oct 18 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Setter](https://jobright.ai/jobs/info/68be8eaee57feb02eb0af378?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | New York, NY | On Site | Oct 17 |
-| **[Pilgrim's](http://www.pilgrims.com/)** | **[Breeder/Laborer - Days](https://jobright.ai/jobs/info/68d66759894705799a2eb768?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Arcadia, WI | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
