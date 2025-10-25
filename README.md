@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[SCA Health](http://scasurgery.com)** | **[Cath Lab Technologist - Celebration Surgery Center](https://jobright.ai/jobs/info/689ddb9e79a9f96662544ec3?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Kissimmee, FL | On Site | Oct 18 |
 | **[SEH](http://www.sehinc.com/)** | **[Water Engineer](https://jobright.ai/jobs/info/68bb84f26105227d118a6899?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Des Moines, IA | On Site | Oct 18 |
 | **[Solventum](https://www.solventum.com/)** | **[Production Packer](https://jobright.ai/jobs/info/68ba31a15f383274918649c7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Brookings, SD | On Site | Oct 18 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[On-call Field Archaeologist](https://jobright.ai/jobs/info/68bbc2e48043103d4f22c4b8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Troy, NY | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
