@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Environmental Svcs Tech](https://jobright.ai/jobs/info/68d765667a37c712687cb807?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 25 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Feed Mill Maintenance Tech (Night Shift) - Waverly, VA](https://jobright.ai/jobs/info/67c1dba21b65c5ee35a9aa83?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Waverly, VA | On Site | Oct 25 |
 | **[St. Joseph's Health](https://www.sjhsyr.org)** | **[Interventional Rad Tech - Cardiovascular Lab](https://jobright.ai/jobs/info/68c2f63263829b0a8a4fe689?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Syracuse, NY | On Site | Oct 24 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Equipment Tech](https://jobright.ai/jobs/info/68c206e04d652f044775c738?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Cincinnati, OH | On Site | Oct 24 |
@@ -117,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Wells](http://wellsconcrete.com)** | **[CERTIFIED WELDER](https://jobright.ai/jobs/info/68bb6c535f3832749186f0e4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Brighton, CO | On Site | Oct 19 |
 | **[Suncadia](http://www.suncadiaresort.com)** | **[PM Maintenance Tech 1](https://jobright.ai/jobs/info/684b6bc6b39742113e8010c8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Cle Elum, WA | On Site | Oct 19 |
 | **[SCA Health](http://scasurgery.com)** | **[Cath Lab Technologist - Celebration Surgery Center](https://jobright.ai/jobs/info/689ddb9e79a9f96662544ec3?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Kissimmee, FL | On Site | Oct 18 |
-| **[SEH](http://www.sehinc.com/)** | **[Water Engineer](https://jobright.ai/jobs/info/68bb84f26105227d118a6899?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Des Moines, IA | On Site | Oct 18 |
-| **[Solventum](https://www.solventum.com/)** | **[Production Packer](https://jobright.ai/jobs/info/68ba31a15f383274918649c7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Brookings, SD | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
