@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[St. Joseph's Health](https://www.sjhsyr.org)** | **[Interventional Rad Tech - Cardiovascular Lab](https://jobright.ai/jobs/info/68c2f63263829b0a8a4fe689?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Syracuse, NY | On Site | Oct 24 |
+| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Equipment Tech](https://jobright.ai/jobs/info/68c206e04d652f044775c738?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Cincinnati, OH | On Site | Oct 24 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Environmental Tech 1, Environmental Services, $2000 Bonus, FT, 6:30A-3P](https://jobright.ai/jobs/info/68c3661280e77b1fa6fc8db0?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Miami, FL | On Site | Oct 24 |
 | ↳ | **[Environmental Tech 1, Environmental Services, Per Diem, 6:30A-3P](https://jobright.ai/jobs/info/68c654af7d0db41142738b0e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Miami, FL | On Site | Oct 24 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Cardiac Cath Lab CV Tech I - 10-Hour Day Shift - $5,000 Hiring Incentive!](https://jobright.ai/jobs/info/68c3c8ba6031587f8458e9f0?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Los Angeles, CA | On Site | Oct 24 |
@@ -115,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[On-call Field Archaeologist](https://jobright.ai/jobs/info/68bbc2e48043103d4f22c4b8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Troy, NY | Hybrid | Oct 18 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Voorheesville, NY Train Conductor](https://jobright.ai/jobs/info/68d6ea25d3fe025a3015d055?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Howes Cave, NY | On Site | Oct 18 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Environmental Svcs Tech](https://jobright.ai/jobs/info/68d765667a37c712687cb807?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 18 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Maine](https://jobright.ai/jobs/info/68907e8d4c7e851b90ac6c1d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Portland, ME | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
