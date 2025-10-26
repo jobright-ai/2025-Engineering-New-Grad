@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/66c561eb60544c52d762dcfa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Baltimore, MD | On Site | Oct 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/68cefe32dbd9fb154ede415d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 19 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Technologist - GIG/Flex/Per Diem/PRN - Rogers, AR](https://jobright.ai/jobs/info/6867dc8535584b6542d46b37?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rogers, AR | On Site | Oct 19 |
-| **[Terminix](http://www.terminix.com/)** | **[Utility Specialist](https://jobright.ai/jobs/info/689f7956b3e889632cf07591?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Honolulu, HI | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
