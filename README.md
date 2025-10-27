@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Rochester](https://jobright.ai/jobs/info/6894a0ee8c6d6b4426773091?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, NY | On Site | Oct 26 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Eau Claire](https://jobright.ai/jobs/info/689197254c7e851b90ad0360?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Altoona, WI | On Site | Oct 26 |
+| ↳ | **[LeafFilter - Installer - Rochester](https://jobright.ai/jobs/info/6894a0ee8c6d6b4426773091?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, NY | On Site | Oct 26 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MRI Technologist](https://jobright.ai/jobs/info/68da524f6df7b8311bb0e85c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Billings, MT | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Raleigh](https://jobright.ai/jobs/info/68ca3931d4187c55157a8469?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raleigh, NC | On Site | Oct 26 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Production Tech I](https://jobright.ai/jobs/info/68cd8d581ad6b16f0289b57b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Maintenance Tech](https://jobright.ai/jobs/info/67f9a68a772d7ef9b8a507da?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Bossier City, LA | On Site | Oct 23 |
 | ↳ | **[Maintenance Tech](https://jobright.ai/jobs/info/67f9a2e762f642cdd3e17a55?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Denton, TX | On Site | Oct 23 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist](https://jobright.ai/jobs/info/68d1e0eda54edb3bf3e170e9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Greater St. Louis | On Site | Oct 23 |
-| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[GMP Recycle Tech](https://jobright.ai/jobs/info/6888106173e3e13cbd9420e8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | East Durham, NY | On Site | Oct 22 |
 | **[Labcorp](https://www.labcorp.com)** | **[Cytotechnologist](https://jobright.ai/jobs/info/68d214a6a54edb3bf3e196c7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raritan, NJ | On Site | Oct 22 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[Surveyor](https://jobright.ai/jobs/info/68d4eb6e24b1ee4c7b661e0d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Morenci, AZ | On Site | Oct 22 |
 | **[Amazon](https://amazon.com)** | **[Dev Harnessing Tech II, Dev ops](https://jobright.ai/jobs/info/68c0be4d8e65e77df55c40e2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Redmond, WA | On Site | Oct 22 |
@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Robinson Brothers Construction, LLC](https://www.rbc-utility.com)** | **[TRAVELING Operator - Telecom Experienced](https://jobright.ai/jobs/info/68bf999f8e65e77df55bbd06?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Prineville, OR | On Site | Oct 21 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[OR Technologist](https://jobright.ai/jobs/info/68850c044174df41e0f95e8d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lakewood, NJ | On Site | Oct 21 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Sanitation Associate - Whitestown, IN](https://jobright.ai/jobs/info/689f864d83d13d1f5b6c929a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Whitestown, IN | On Site | Oct 21 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/66c561eb60544c52d762dcf6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | New York, NY | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
