@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Rochester](https://jobright.ai/jobs/info/6894a0ee8c6d6b4426773091?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, NY | On Site | Oct 26 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MRI Technologist](https://jobright.ai/jobs/info/68da524f6df7b8311bb0e85c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Billings, MT | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Raleigh](https://jobright.ai/jobs/info/68ca3931d4187c55157a8469?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raleigh, NC | On Site | Oct 26 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Production Tech I](https://jobright.ai/jobs/info/68cd8d581ad6b16f0289b57b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
