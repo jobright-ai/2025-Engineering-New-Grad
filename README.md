@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Production Tech I](https://jobright.ai/jobs/info/68cd8d581ad6b16f0289b57b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Phoenix](https://jobright.ai/jobs/info/68cee4e5dbd9fb154ede3789?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - St. Charles](https://jobright.ai/jobs/info/6889b98309808a6103e4aea2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, MN | On Site | Oct 26 |
+| ↳ | **[LeafFilter - Installer - Phoenix](https://jobright.ai/jobs/info/68cee4e5dbd9fb154ede3789?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Maryland](https://jobright.ai/jobs/info/689720b31b9e81727f1941c2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hanover, MD | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Nashville](https://jobright.ai/jobs/info/68971b241b9e81727f19370b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lebanon, TN | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Everett](https://jobright.ai/jobs/info/68cbb7d5ba798c1a501d450c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Mukilteo, WA | On Site | Oct 26 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[CSP Tech (FT-Night), Somerville NJ](https://jobright.ai/jobs/info/68c092dc5c5d5f14f46df5eb?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Somerville, NJ | On Site | Oct 23 |
 | **[Amazon](https://amazon.com)** | **[Dev Harnessing Tech II, Dev ops](https://jobright.ai/jobs/info/68c0bbe15c5d5f14f46e0a3c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Redmond, WA | On Site | Oct 23 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Hagerstown](https://jobright.ai/jobs/info/68cd4a5b1ad6b16f028978ed?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hagerstown, MD | On Site | Oct 23 |
-| **[Siemens Energy](https://www.siemens-energy.com/)** | **[Early Career Field Service Engineer Training Program](https://jobright.ai/jobs/info/68c08fec702aa35207aae994?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[AIRCRAFT PAINT PREP TECH I](https://jobright.ai/jobs/info/68c074805c5d5f14f46ddb78?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Arkansas, United States | On Site | Oct 23 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Production Lab Assistant](https://jobright.ai/jobs/info/6889442609808a6103e465a7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Minneapolis, MN | On Site | Oct 23 |
 | **[Camping World](http://www.campingworld.com/)** | **[Maintenance Tech](https://jobright.ai/jobs/info/67f9a68a772d7ef9b8a507da?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Bossier City, LA | On Site | Oct 23 |
