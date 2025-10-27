@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intermountain Health](https://intermountainhealthcare.org)** | **[MRI Technologist](https://jobright.ai/jobs/info/68da524f6df7b8311bb0e85c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Billings, MT | On Site | Oct 26 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Raleigh](https://jobright.ai/jobs/info/68ca3931d4187c55157a8469?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raleigh, NC | On Site | Oct 26 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Production Tech I](https://jobright.ai/jobs/info/68cd8d581ad6b16f0289b57b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - St. Charles](https://jobright.ai/jobs/info/6889b98309808a6103e4aea2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, MN | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Phoenix](https://jobright.ai/jobs/info/68cee4e5dbd9fb154ede3789?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Akron](https://jobright.ai/jobs/info/6895661e73b3a600fe8871b8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Canton, OH | On Site | Oct 25 |
 | **[Republic Services](http://www.republicservices.com)** | **[Diesel Mechanic B Tech (Starting at $34/Hour)](https://jobright.ai/jobs/info/68c7be98369c3763c743b484?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Stevensville, MI | On Site | Oct 25 |
 | **[DTE Vantage](http://www.dtevantage.com)** | **[Mechanical Maintenance Tech I - L1299](https://jobright.ai/jobs/info/689e4a4c79a9f96662549e2c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | River Rouge, MI | On Site | Oct 25 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[IR Rad Tech Full Time](https://jobright.ai/jobs/info/68d538e61f7fb2169ab0de96?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 25 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Environmental Svcs Tech](https://jobright.ai/jobs/info/68d765667a37c712687cb807?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 25 |
 | **[Rush Oak Park Hospital](http://www.roph.org)** | **[Nuclear Med Tech, Per Diem-20560](https://jobright.ai/jobs/info/68880ec5fbbf032d0007871a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Oak Park, IL | On Site | Oct 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[X-Ray Tech, Limited Permit - Float Pool](https://jobright.ai/jobs/info/686e2da52a385a9f5448b2f3?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Los Angeles, CA | On Site | Oct 25 |
