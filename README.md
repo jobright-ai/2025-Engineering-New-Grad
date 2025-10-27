@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[OR Technologist](https://jobright.ai/jobs/info/68850c044174df41e0f95e8d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lakewood, NJ | On Site | Oct 21 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Sanitation Associate - Whitestown, IN](https://jobright.ai/jobs/info/689f864d83d13d1f5b6c929a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Whitestown, IN | On Site | Oct 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/66c561eb60544c52d762dcf6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | New York, NY | On Site | Oct 20 |
-| ↳ | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/66c561eb60544c52d762dcfa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Baltimore, MD | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
