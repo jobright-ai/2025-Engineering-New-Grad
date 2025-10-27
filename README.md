@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrow Electronics](https://www.arrow.com/)** | **[Production Tech I](https://jobright.ai/jobs/info/68cd8d581ad6b16f0289b57b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Phoenix](https://jobright.ai/jobs/info/68cee4e5dbd9fb154ede3789?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Maryland](https://jobright.ai/jobs/info/689720b31b9e81727f1941c2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hanover, MD | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Nashville](https://jobright.ai/jobs/info/68971b241b9e81727f19370b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lebanon, TN | On Site | Oct 26 |
 | **[Scripps Health](http://www.scripps.org)** | **[New Grad - Rad Tech](https://jobright.ai/jobs/info/68c41dc8e396b25cb5c659a4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | La Jolla, CA | On Site | Oct 26 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Akron](https://jobright.ai/jobs/info/6895661e73b3a600fe8871b8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Canton, OH | On Site | Oct 25 |
 | **[Republic Services](http://www.republicservices.com)** | **[Diesel Mechanic B Tech (Starting at $34/Hour)](https://jobright.ai/jobs/info/68c7be98369c3763c743b484?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Stevensville, MI | On Site | Oct 25 |
 | **[DTE Vantage](http://www.dtevantage.com)** | **[Mechanical Maintenance Tech I - L1299](https://jobright.ai/jobs/info/689e4a4c79a9f96662549e2c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | River Rouge, MI | On Site | Oct 25 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Environmental Svcs Tech](https://jobright.ai/jobs/info/68d765667a37c712687cb807?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 25 |
