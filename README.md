@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Fresno](https://jobright.ai/jobs/info/68956e8a4ed2ea559ca55c43?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 26 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Sterilization Tech 2, Surgery, $5000 Bonus,FT, 3P-11:30P](https://jobright.ai/jobs/info/688c73af1808534a89cbc39e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Coral Gables, FL | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Beaumont](https://jobright.ai/jobs/info/688b0956aab47a17f670def6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Beaumont, TX | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Eau Claire](https://jobright.ai/jobs/info/689197254c7e851b90ad0360?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Altoona, WI | On Site | Oct 26 |
@@ -142,11 +143,9 @@ For a complete list, click the following sortable link below:
 | **[Layne, A Granite Company](https://www.layne.com/)** | **[Pump Installer - Layne](https://jobright.ai/jobs/info/673c955d757377fdb0d56c35?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Schoharie, NY | On Site | Oct 22 |
 | **[Cooley Dickinson Hospital](https://www.cooleydickinson.org/)** | **[CSP Tech Certified](https://jobright.ai/jobs/info/68d519be24b1ee4c7b663f45?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Northampton, MA | On Site | Oct 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Dive into Sea Turtle Conservation, Unwind and Make a Difference in the Dulce Gulf](https://jobright.ai/jobs/info/68c04c4f702aa35207aabd38?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pasadena, CA | On Site | Oct 21 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Technologist - GIG/Flex/Per Diem/PRN - Admore, OK](https://jobright.ai/jobs/info/68cf5406fb49c96ca6ea774e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Joplin, MO | On Site | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[AFSIM Mission Analyst](https://jobright.ai/jobs/info/68bf61b4702aa35207aa5e13?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Beavercreek, OH | On Site | Oct 21 |
 | **[GFT](https://www.gftinc.com)** | **[Entry Level Geologist](https://jobright.ai/jobs/info/68daa53d6df7b8311bb109c2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 21 |
 | **[The Metropolitan Museum of Art](http://metmuseum.org/)** | **[Assistant Conservator, (Ceramics)](https://jobright.ai/jobs/info/68cef667846f0b04af67e064?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | New York, NY | On Site | Oct 21 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Structural Engineer 2 - Nuclear](https://jobright.ai/jobs/info/68bf78ac8e65e77df55ba829?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Wilmington, DE | Hybrid | Oct 21 |
-| **[Robinson Brothers Construction, LLC](https://www.rbc-utility.com)** | **[TRAVELING Operator - Telecom Experienced](https://jobright.ai/jobs/info/68bf999f8e65e77df55bbd06?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Prineville, OR | On Site | Oct 21 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[OR Technologist](https://jobright.ai/jobs/info/68850c044174df41e0f95e8d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lakewood, NJ | On Site | Oct 21 |
-| **[The Hershey Company](http://thehersheycompany.com)** | **[Sanitation Associate - Whitestown, IN](https://jobright.ai/jobs/info/689f864d83d13d1f5b6c929a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Whitestown, IN | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
