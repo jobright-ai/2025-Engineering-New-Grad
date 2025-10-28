@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Fresno](https://jobright.ai/jobs/info/68956e8a4ed2ea559ca55c43?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 26 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist Weekends](https://jobright.ai/jobs/info/68d4fdf124b1ee4c7b662ef8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Greater St. Louis | On Site | Oct 27 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Boston](https://jobright.ai/jobs/info/6895870b8c6d6b442677aa2a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Wilmington, MA | On Site | Oct 26 |
+| ↳ | **[LeafFilter - Installer - Fresno](https://jobright.ai/jobs/info/68956e8a4ed2ea559ca55c43?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 26 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Sterilization Tech 2, Surgery, $5000 Bonus,FT, 3P-11:30P](https://jobright.ai/jobs/info/688c73af1808534a89cbc39e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Coral Gables, FL | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Beaumont](https://jobright.ai/jobs/info/688b0956aab47a17f670def6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Beaumont, TX | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Eau Claire](https://jobright.ai/jobs/info/689197254c7e851b90ad0360?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Altoona, WI | On Site | Oct 26 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LeafFilter - Installer - Nashville](https://jobright.ai/jobs/info/68971b241b9e81727f19370b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lebanon, TN | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Everett](https://jobright.ai/jobs/info/68cbb7d5ba798c1a501d450c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Mukilteo, WA | On Site | Oct 26 |
 | **[Scripps Health](http://www.scripps.org)** | **[New Grad - Rad Tech](https://jobright.ai/jobs/info/68c41dc8e396b25cb5c659a4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | La Jolla, CA | On Site | Oct 26 |
+| **[Maple Leaf Foods Inc](http://www.mapleleaffoods.com)** | **[Maintenance Tech](https://jobright.ai/jobs/info/68c37d956031587f8458b4aa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Seattle, WA | On Site | Oct 25 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Akron](https://jobright.ai/jobs/info/6895661e73b3a600fe8871b8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Canton, OH | On Site | Oct 25 |
 | **[Republic Services](http://www.republicservices.com)** | **[Diesel Mechanic B Tech (Starting at $34/Hour)](https://jobright.ai/jobs/info/68c7be98369c3763c743b484?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Stevensville, MI | On Site | Oct 25 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Nuc Med Tech FT Rotating shifts](https://jobright.ai/jobs/info/68c506807d0db411427315d8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 25 |
