@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetroStar](http://www.metrostarsystems.com)** | **[Associate DevOps Engineer (5670)](https://jobright.ai/jobs/info/67abc462eb48868591a85012?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Quantico, VA | Hybrid | Oct 29 |
 | **[University of Missouri-Columbia](https://missouri.edu)** | **[RESEARCH ENGINEERING TECH I](https://jobright.ai/jobs/info/68aca098daf1431824c96a3e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Columbia, MO | On Site | Oct 29 |
 | **[Scripps Health](http://www.scripps.org)** | **[Histology Tech - Nights - La Jolla](https://jobright.ai/jobs/info/68c911d2f9c6ff7aedf17696?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Diego, CA | On Site | Oct 29 |
+| **[99 Ranch Market](http://99ranch.com)** | **[System Analyst](https://jobright.ai/jobs/info/68a4dd628f3a5e12e68d3cb2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Carteret, NJ | Hybrid | Oct 28 |
 | **[Patient First](http://www.patientfirst.com)** | **[X-Ray Technologist](https://jobright.ai/jobs/info/6859cd6a5ecdd9bc0ea59e5d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Glen Burnie, MD | On Site | Oct 28 |
 | **[Loyola Medicine](http://loyolamedicine.org)** | **[GI Lab Tech, Melrose Park, IL](https://jobright.ai/jobs/info/68c90f77f9c6ff7aedf171b2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Melrose Park, IL | On Site | Oct 28 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Cardiovascular Technologist](https://jobright.ai/jobs/info/6836728e08c8d881ec165da7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Portland, OR | On Site | Oct 28 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MRI Technologist](https://jobright.ai/jobs/info/68da524f6df7b8311bb0e85c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Billings, MT | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Raleigh](https://jobright.ai/jobs/info/68ca3931d4187c55157a8469?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raleigh, NC | On Site | Oct 26 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Production Tech I](https://jobright.ai/jobs/info/68cd8d581ad6b16f0289b57b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Converting Maintenance Tech](https://jobright.ai/jobs/info/68a8cd016acf96396f722f09?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Plattsburgh, NY | Hybrid | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - St. Charles](https://jobright.ai/jobs/info/6889b98309808a6103e4aea2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, MN | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Seattle](https://jobright.ai/jobs/info/68941bdba9199876488e28ee?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Auburn, WA | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Phoenix](https://jobright.ai/jobs/info/68cee4e5dbd9fb154ede3789?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
@@ -153,6 +156,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Maintenance Tech](https://jobright.ai/jobs/info/67f9a2e762f642cdd3e17a55?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Denton, TX | On Site | Oct 23 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist](https://jobright.ai/jobs/info/68d1e0eda54edb3bf3e170e9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Greater St. Louis | On Site | Oct 23 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[Surveyor](https://jobright.ai/jobs/info/68d4eb6e24b1ee4c7b661e0d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Morenci, AZ | On Site | Oct 22 |
-| **[Amazon](https://amazon.com)** | **[Dev Harnessing Tech II, Dev ops](https://jobright.ai/jobs/info/68c0be4d8e65e77df55c40e2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Redmond, WA | On Site | Oct 22 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Engineering Operations Technician](https://jobright.ai/jobs/info/67c0ef3944432858985429a3?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hermiston, OR | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
