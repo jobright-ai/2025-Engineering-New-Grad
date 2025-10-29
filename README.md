@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Missouri-Columbia](https://missouri.edu)** | **[RESEARCH ENGINEERING TECH I](https://jobright.ai/jobs/info/68aca098daf1431824c96a3e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Columbia, MO | On Site | Oct 29 |
 | **[Scripps Health](http://www.scripps.org)** | **[Histology Tech - Nights - La Jolla](https://jobright.ai/jobs/info/68c911d2f9c6ff7aedf17696?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Diego, CA | On Site | Oct 29 |
 | **[Patient First](http://www.patientfirst.com)** | **[X-Ray Technologist](https://jobright.ai/jobs/info/6859cd6a5ecdd9bc0ea59e5d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Glen Burnie, MD | On Site | Oct 28 |
 | **[Loyola Medicine](http://loyolamedicine.org)** | **[GI Lab Tech, Melrose Park, IL](https://jobright.ai/jobs/info/68c90f77f9c6ff7aedf171b2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Melrose Park, IL | On Site | Oct 28 |
@@ -154,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Freeport-McMoRan](https://fcx.com)** | **[Surveyor](https://jobright.ai/jobs/info/68d4eb6e24b1ee4c7b661e0d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Morenci, AZ | On Site | Oct 22 |
 | **[Amazon](https://amazon.com)** | **[Dev Harnessing Tech II, Dev ops](https://jobright.ai/jobs/info/68c0be4d8e65e77df55c40e2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Redmond, WA | On Site | Oct 22 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Engineering Operations Technician](https://jobright.ai/jobs/info/67c0ef3944432858985429a3?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hermiston, OR | On Site | Oct 22 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Eugene](https://jobright.ai/jobs/info/688ee328cdbd821a36642fee?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Eugene, OR | On Site | Oct 22 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[OTR Class A Owner Operator](https://jobright.ai/jobs/info/68db9ddd9f13662d20e4f9cd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Bristol, CT | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
