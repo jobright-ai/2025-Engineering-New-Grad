@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate DevOps Engineer (5670)](https://jobright.ai/jobs/info/67abc462eb48868591a85012?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Quantico, VA | Hybrid | Oct 29 |
+| **[Daniels Health](https://www.danielshealth.com/)** | **[Class A Yard Jockey (2pm-11pm) - 5208](https://jobright.ai/jobs/info/68c9dfc984fc1901fd41a3bb?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Gastonia, NC | On Site | Oct 29 |
 | **[University of Missouri-Columbia](https://missouri.edu)** | **[RESEARCH ENGINEERING TECH I](https://jobright.ai/jobs/info/68aca098daf1431824c96a3e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Columbia, MO | On Site | Oct 29 |
 | **[Scripps Health](http://www.scripps.org)** | **[Histology Tech - Nights - La Jolla](https://jobright.ai/jobs/info/68c911d2f9c6ff7aedf17696?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Diego, CA | On Site | Oct 29 |
 | **[99 Ranch Market](http://99ranch.com)** | **[System Analyst](https://jobright.ai/jobs/info/68a4dd628f3a5e12e68d3cb2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Carteret, NJ | Hybrid | Oct 28 |
@@ -155,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Maintenance Tech](https://jobright.ai/jobs/info/67f9a68a772d7ef9b8a507da?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Bossier City, LA | On Site | Oct 23 |
 | ↳ | **[Maintenance Tech](https://jobright.ai/jobs/info/67f9a2e762f642cdd3e17a55?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Denton, TX | On Site | Oct 23 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist](https://jobright.ai/jobs/info/68d1e0eda54edb3bf3e170e9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Greater St. Louis | On Site | Oct 23 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[Surveyor](https://jobright.ai/jobs/info/68d4eb6e24b1ee4c7b661e0d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Morenci, AZ | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
