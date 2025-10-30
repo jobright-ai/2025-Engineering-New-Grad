@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Postdoctoral Research Associate - Structural Biology](https://jobright.ai/jobs/info/6859ab177cc82b34be907ff2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Memphis, TN | On Site | Oct 30 |
 | **[Cooley LLP](http://www.cooley.com)** | **[Patent Agent/Advisor (Electrical/Mechanical)](https://jobright.ai/jobs/info/68c2d9705adaee6c9bda4bb1?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Boston, MA | On Site | Oct 29 |
 | **[Patient First](http://www.patientfirst.com)** | **[X-ray Technologist](https://jobright.ai/jobs/info/685a463c74c42892a4bda0fb?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pennsylvania, United States | On Site | Oct 29 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate DevOps Engineer (5670)](https://jobright.ai/jobs/info/67abc462eb48868591a85012?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Quantico, VA | Hybrid | Oct 29 |
@@ -110,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Bradford White](https://bradfordwhite.com)** | **[General Production Associate](https://jobright.ai/jobs/info/67c6bb2c6dc6916f2767fd6d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Middleville, MI | On Site | Oct 25 |
 | **[Precision Today](https://www.precisiontoday.com)** | **[Drain Tech](https://jobright.ai/jobs/info/688be1e43a30793eb963e6d7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Franklin Park, IL | On Site | Oct 25 |
 | **[DTE Vantage](http://www.dtevantage.com)** | **[Mechanical Maintenance Tech I - L1299](https://jobright.ai/jobs/info/689e4a4c79a9f96662549e2c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | River Rouge, MI | On Site | Oct 25 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Environmental Tech 1, Environmental Services, $2000 Bonus, FT, 6:30A-3P](https://jobright.ai/jobs/info/68c47c1be471ef3ce16d6ab6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Miami, FL | On Site | Oct 25 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[IR Rad Tech Full Time](https://jobright.ai/jobs/info/68d538e61f7fb2169ab0de96?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 25 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Environmental Svcs Tech](https://jobright.ai/jobs/info/68d765667a37c712687cb807?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 25 |
 | **[Rush Oak Park Hospital](http://www.roph.org)** | **[Nuclear Med Tech, Per Diem-20560](https://jobright.ai/jobs/info/68880ec5fbbf032d0007871a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Oak Park, IL | On Site | Oct 25 |
