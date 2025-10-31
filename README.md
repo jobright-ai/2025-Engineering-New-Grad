@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Geologist](https://jobright.ai/jobs/info/68ca2f8ef16e3266d282415e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Mt. Laurel, NJ | On Site | Oct 30 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Postdoctoral Research Associate - Structural Biology](https://jobright.ai/jobs/info/6859ab177cc82b34be907ff2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Memphis, TN | On Site | Oct 30 |
 | **[Cooley LLP](http://www.cooley.com)** | **[Patent Agent/Advisor (Electrical/Mechanical)](https://jobright.ai/jobs/info/68c2d9705adaee6c9bda4bb1?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Boston, MA | On Site | Oct 29 |
 | **[Patient First](http://www.patientfirst.com)** | **[X-ray Technologist](https://jobright.ai/jobs/info/685a463c74c42892a4bda0fb?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pennsylvania, United States | On Site | Oct 29 |
@@ -142,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Dev Harnessing Tech II, Dev ops](https://jobright.ai/jobs/info/68c0bbfb702aa35207ab0184?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Redmond, WA | On Site | Oct 24 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Springfield](https://jobright.ai/jobs/info/68ccc307fa466330fef90c61?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Springfield, MO | On Site | Oct 24 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Sterilization Tech 2, Sterilization Services, $5000 Bonus, FT, 2pm-10:30pm](https://jobright.ai/jobs/info/68c1d8504d652f044775adbc?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Miami, FL | On Site | Oct 24 |
-| **[Camping World](http://www.campingworld.com/)** | **[Maintenance Tech](https://jobright.ai/jobs/info/67f9a2e762f642cdd3e17a52?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Alvarado, TX | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
