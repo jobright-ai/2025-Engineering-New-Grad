@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weeks Marine, Inc.](http://www.weeksmarine.com)** | **[Field/Office Engineer - Weeks Marine Construction](https://jobright.ai/jobs/info/68925fdff5ee707a15dc522c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Newark, NJ | On Site | Oct 31 |
 | **[Wentworth-Douglass Hospital](https://wdhospital.org)** | **[Echocardiography Technologist - Pediatric](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb2ae?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Dover, NH | On Site | Oct 31 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[BioMed Engineer I](https://jobright.ai/jobs/info/68ae9e3e2daaba3984419064?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Evanston, IL | On Site | Oct 31 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[MRI Technologist - Robbinsdale](https://jobright.ai/jobs/info/68ccef68d11b445e0bee48b9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Twin Cities Area | On Site | Oct 31 |
