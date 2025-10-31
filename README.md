@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Saint Agnes Medical Center](https://samc.com)** | **[Cath Lab Tech Full Time](https://jobright.ai/jobs/info/688b22a309808a6103e552a6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 24 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Radiologic Technologist- PRN](https://jobright.ai/jobs/info/67fe0f1dc6a7f1fb4f4cb6c2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rockville, MD | On Site | Oct 24 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Oklahoma City](https://jobright.ai/jobs/info/6891951cf47efe2113956f2f?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Oklahoma City, OK | On Site | Oct 24 |
-| **[Cooley LLP](http://www.cooley.com)** | **[Patent Agent/Advisor (Electrical/Mechanical)](https://jobright.ai/jobs/info/68b272541ade4306aa636a01?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | New York, United States | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
