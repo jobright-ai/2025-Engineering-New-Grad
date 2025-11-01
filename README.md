@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Maple Leaf Foods Inc](http://www.mapleleaffoods.com)** | **[Maintenance Tech](https://jobright.ai/jobs/info/68c37d956031587f8458b4aa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Seattle, WA | On Site | Oct 25 |
 | **[Roche](http://www.roche.com)** | **[Pathologist](https://jobright.ai/jobs/info/6889ec259f961617fe218f10?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Tucson, AZ | On Site | Oct 25 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Akron](https://jobright.ai/jobs/info/6895661e73b3a600fe8871b8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Canton, OH | On Site | Oct 25 |
-| **[The Manitowoc Company](http://www.manitowoc.com)** | **[Shop Crane Tech Trainee](https://jobright.ai/jobs/info/68a7468433dd7158bbca5bae?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Billings, MT | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
