@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roku](https://www.roku.com)** | **[Machine Learning Engineer, Roku TV](https://jobright.ai/jobs/info/689505718c6d6b4426776acd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | On Site | Nov 01 |
 | **[Weeks Marine, Inc.](http://www.weeksmarine.com)** | **[Field/Office Engineer - Weeks Marine Construction](https://jobright.ai/jobs/info/68925fdff5ee707a15dc522c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Newark, NJ | On Site | Oct 31 |
+| **[Cretex Medical](https://www.cretexmedical.com)** | **[2nd Ops Tech](https://jobright.ai/jobs/info/6892ba51f47efe211395e829?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Anoka, MN | On Site | Oct 31 |
 | **[Wentworth-Douglass Hospital](https://wdhospital.org)** | **[Echocardiography Technologist - Pediatric](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb2ae?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Dover, NH | On Site | Oct 31 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[BioMed Engineer I](https://jobright.ai/jobs/info/68ae9e3e2daaba3984419064?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Evanston, IL | On Site | Oct 31 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[MRI Technologist - Robbinsdale](https://jobright.ai/jobs/info/68ccef68d11b445e0bee48b9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Twin Cities Area | On Site | Oct 31 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Protecting Paradise: Environmental Conservation in Puerto Escondido](https://jobright.ai/jobs/info/67500e74c215087b2ed1d529?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | New York, NY | On Site | Oct 31 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Patent Prosecution Technical Advisor - Junior](https://jobright.ai/jobs/info/68cb618aba798c1a501cf041?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Austin, TX | Hybrid | Oct 30 |
 | **[Loyola Medicine](http://loyolamedicine.org)** | **[CT Technologist, Evenings](https://jobright.ai/jobs/info/68ca7d7a46caff4db51ffd8c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Maywood, IL | On Site | Oct 30 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Geologist](https://jobright.ai/jobs/info/68ca2f8ef16e3266d282415e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Mt. Laurel, NJ | On Site | Oct 30 |
@@ -123,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[Nuc Med Tech FT Rotating shifts](https://jobright.ai/jobs/info/68c506807d0db411427315d8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 25 |
 | **[Bradford White](https://bradfordwhite.com)** | **[General Production Associate](https://jobright.ai/jobs/info/67c6bb2c6dc6916f2767fd6d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Middleville, MI | On Site | Oct 25 |
 | **[Precision Today](https://www.precisiontoday.com)** | **[Drain Tech](https://jobright.ai/jobs/info/688be1e43a30793eb963e6d7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Franklin Park, IL | On Site | Oct 25 |
-| **[DTE Vantage](http://www.dtevantage.com)** | **[Mechanical Maintenance Tech I - L1299](https://jobright.ai/jobs/info/689e4a4c79a9f96662549e2c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | River Rouge, MI | On Site | Oct 25 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Environmental Tech 1, Environmental Services, $2000 Bonus, FT, 6:30A-3P](https://jobright.ai/jobs/info/68c47c1be471ef3ce16d6ab6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Miami, FL | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
