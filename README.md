@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Roku](https://www.roku.com)** | **[Machine Learning Engineer, Roku TV](https://jobright.ai/jobs/info/689505718c6d6b4426776acd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | On Site | Nov 01 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Leaf Home Lighting - Installer - Springfield](https://jobright.ai/jobs/info/68adf601758f2e4ac300fdf7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Springfield, MO | On Site | Oct 31 |
 | **[Weeks Marine, Inc.](http://www.weeksmarine.com)** | **[Field/Office Engineer - Weeks Marine Construction](https://jobright.ai/jobs/info/68925fdff5ee707a15dc522c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Newark, NJ | On Site | Oct 31 |
 | **[Cretex Medical](https://www.cretexmedical.com)** | **[2nd Ops Tech](https://jobright.ai/jobs/info/6892ba51f47efe211395e829?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Anoka, MN | On Site | Oct 31 |
 | **[Wentworth-Douglass Hospital](https://wdhospital.org)** | **[Echocardiography Technologist - Pediatric](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb2ae?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Dover, NH | On Site | Oct 31 |
