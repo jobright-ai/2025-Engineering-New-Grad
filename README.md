@@ -121,7 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LeafFilter - Installer - Everett](https://jobright.ai/jobs/info/68cbb7d5ba798c1a501d450c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Mukilteo, WA | On Site | Oct 26 |
 | **[Scripps Health](http://www.scripps.org)** | **[New Grad - Rad Tech](https://jobright.ai/jobs/info/68c41dc8e396b25cb5c659a4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | La Jolla, CA | On Site | Oct 26 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Cath Lab Tech Full Time](https://jobright.ai/jobs/info/688b1c8d9f961617fe221b03?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 25 |
-| **[Maple Leaf Foods Inc](http://www.mapleleaffoods.com)** | **[Maintenance Tech](https://jobright.ai/jobs/info/68c37d956031587f8458b4aa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Seattle, WA | On Site | Oct 25 |
-| **[Roche](http://www.roche.com)** | **[Pathologist](https://jobright.ai/jobs/info/6889ec259f961617fe218f10?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Tucson, AZ | On Site | Oct 25 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Akron](https://jobright.ai/jobs/info/6895661e73b3a600fe8871b8?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Canton, OH | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
