@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Today](https://www.precisiontoday.com)** | **[Drain Tech](https://jobright.ai/jobs/info/688be1e43a30793eb963e6d7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Franklin Park, IL | On Site | Oct 25 |
 | **[DTE Vantage](http://www.dtevantage.com)** | **[Mechanical Maintenance Tech I - L1299](https://jobright.ai/jobs/info/689e4a4c79a9f96662549e2c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | River Rouge, MI | On Site | Oct 25 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Environmental Tech 1, Environmental Services, $2000 Bonus, FT, 6:30A-3P](https://jobright.ai/jobs/info/68c47c1be471ef3ce16d6ab6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Miami, FL | On Site | Oct 25 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[IR Rad Tech Full Time](https://jobright.ai/jobs/info/68d538e61f7fb2169ab0de96?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
