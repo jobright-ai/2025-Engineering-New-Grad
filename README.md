@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist](https://jobright.ai/jobs/info/68a22b2383d13d1f5b6d5914?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Greater St. Louis | On Site | Nov 02 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Maintenance Tech - 3rd Shift](https://jobright.ai/jobs/info/6826cb492b09e514713c3b35?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Woodridge, IL | On Site | Nov 02 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Green Bay](https://jobright.ai/jobs/info/6892f764f47efe21139614e6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Appleton, WI | On Site | Nov 02 |
 | **[SiriusXM](http://siriusxm.com)** | **[Coordinator, Music Programming](https://jobright.ai/jobs/info/68ccae82128dc347fd9283b1?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Roku](https://www.roku.com)** | **[Machine Learning Engineer, Roku TV](https://jobright.ai/jobs/info/689505718c6d6b4426776acd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | On Site | Nov 01 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Leaf Home Lighting - Installer - Springfield](https://jobright.ai/jobs/info/68adf601758f2e4ac300fdf7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Springfield, MO | On Site | Oct 31 |
+| **[MultiCare Health System](http://www.multicare.org)** | **[Breast Ultrasound Technologist - 'Ohana Mammography Center](https://jobright.ai/jobs/info/6876bc80299cbc74b8760276?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Yakima, WA | On Site | Oct 31 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - North Virginia](https://jobright.ai/jobs/info/68c8e06df9c6ff7aedf13df2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Chantilly, VA | On Site | Oct 31 |
 | **[Weeks Marine, Inc.](http://www.weeksmarine.com)** | **[Field/Office Engineer - Weeks Marine Construction](https://jobright.ai/jobs/info/68925fdff5ee707a15dc522c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Newark, NJ | On Site | Oct 31 |
 | **[Cretex Medical](https://www.cretexmedical.com)** | **[2nd Ops Tech](https://jobright.ai/jobs/info/6892ba51f47efe211395e829?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Anoka, MN | On Site | Oct 31 |
 | **[Wentworth-Douglass Hospital](https://wdhospital.org)** | **[Echocardiography Technologist - Pediatric](https://jobright.ai/jobs/info/686ed9d9a0864b8b9c5bb2ae?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Dover, NH | On Site | Oct 31 |
@@ -108,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[8th Avenue Food & Provisions](https://www.8ave.com)** | **[Sanitation Tech - $16.50+/hr DOE (Shift:  Sat-Wed, 10p-6:30a)](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c0484?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Eugene, OR | On Site | Oct 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Water Resources Engineer](https://jobright.ai/jobs/info/68c4778314bb275ce0193acf?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Baton Rouge](https://jobright.ai/jobs/info/68941a9af47efe2113969405?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Baton Rouge, LA | On Site | Oct 26 |
-| **[Lamb Weston](http://www.lambweston.com/)** | **[Electronic/Electrical Tech IV](https://jobright.ai/jobs/info/6837663479febcb3497dbc87?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | American Falls, ID | On Site | Oct 26 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Boston](https://jobright.ai/jobs/info/6895870b8c6d6b442677aa2a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Wilmington, MA | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
