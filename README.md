@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiriusXM](http://siriusxm.com)** | **[Coordinator, Music Programming](https://jobright.ai/jobs/info/68ccae82128dc347fd9283b1?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Roku](https://www.roku.com)** | **[Machine Learning Engineer, Roku TV](https://jobright.ai/jobs/info/689505718c6d6b4426776acd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | On Site | Nov 01 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Leaf Home Lighting - Installer - Springfield](https://jobright.ai/jobs/info/68adf601758f2e4ac300fdf7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Springfield, MO | On Site | Oct 31 |
 | **[Weeks Marine, Inc.](http://www.weeksmarine.com)** | **[Field/Office Engineer - Weeks Marine Construction](https://jobright.ai/jobs/info/68925fdff5ee707a15dc522c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Newark, NJ | On Site | Oct 31 |
@@ -75,6 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Fort Myers](https://jobright.ai/jobs/info/68d4ad77fcd3367e8df16945?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fort Myers, FL | On Site | Oct 30 |
 | ↳ | **[LeafFilter - Installer - Boise](https://jobright.ai/jobs/info/68956ea58c6d6b4426779b78?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Boise, ID | On Site | Oct 30 |
 | **[Viridien](https://www.viridiengroup.com/)** | **[Seismic Imaging Analyst](https://jobright.ai/jobs/info/68cc1ba57342c7623ae5f349?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 30 |
+| **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[3rd shift Quality Tech Mon - Thurs](https://jobright.ai/jobs/info/68ce8735dbd9fb154ede07ec?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Coshocton, OH | On Site | Oct 30 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Leaf Home Water Solutions - Installer - Erie](https://jobright.ai/jobs/info/68940e5f4c7e851b90ae2611?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Erie, PA | On Site | Oct 29 |
 | **[Cooley LLP](http://www.cooley.com)** | **[Patent Agent/Advisor (Electrical/Mechanical)](https://jobright.ai/jobs/info/68c2d9705adaee6c9bda4bb1?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Boston, MA | On Site | Oct 29 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - St. Cloud](https://jobright.ai/jobs/info/68cb9c5fba798c1a501d2b7b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Sauk Rapids, MN | On Site | Oct 29 |
 | **[Patient First](http://www.patientfirst.com)** | **[X-ray Technologist](https://jobright.ai/jobs/info/685a463c74c42892a4bda0fb?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pennsylvania, United States | On Site | Oct 29 |
@@ -108,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Sterilization Tech 2, Surgery, $5000 Bonus,FT, 3P-11:30P](https://jobright.ai/jobs/info/688c73af1808534a89cbc39e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Coral Gables, FL | On Site | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Beaumont](https://jobright.ai/jobs/info/688b0956aab47a17f670def6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Beaumont, TX | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Eau Claire](https://jobright.ai/jobs/info/689197254c7e851b90ad0360?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Altoona, WI | On Site | Oct 26 |
-| ↳ | **[LeafFilter - Installer - Rochester](https://jobright.ai/jobs/info/6894a0ee8c6d6b4426773091?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, NY | On Site | Oct 26 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[MRI Technologist](https://jobright.ai/jobs/info/68da524f6df7b8311bb0e85c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Billings, MT | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
