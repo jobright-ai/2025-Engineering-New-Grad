@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Retail Options](http://www.retailoptions.com)** | **[Radiation Therapy Technologist](https://jobright.ai/jobs/info/68d632c1ebcef82ef5cf78fa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Watertown, NY | On Site | Nov 02 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Electrical Tech A](https://jobright.ai/jobs/info/68cc323016d00d2beeb1b6a9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Wheatland, PA | On Site | Nov 02 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist](https://jobright.ai/jobs/info/68a22b2383d13d1f5b6d5914?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Greater St. Louis | On Site | Nov 02 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Maintenance Tech - 3rd Shift](https://jobright.ai/jobs/info/6826cb492b09e514713c3b35?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Woodridge, IL | On Site | Nov 02 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Green Bay](https://jobright.ai/jobs/info/6892f764f47efe21139614e6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Appleton, WI | On Site | Nov 02 |
@@ -111,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Tampa](https://jobright.ai/jobs/info/68cd836ce23def7af55bb08d?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Tampa, FL | On Site | Oct 27 |
 | **[8th Avenue Food & Provisions](https://www.8ave.com)** | **[Sanitation Tech - $16.50+/hr DOE (Shift:  Sat-Wed, 10p-6:30a)](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c0484?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Eugene, OR | On Site | Oct 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Water Resources Engineer](https://jobright.ai/jobs/info/68c4778314bb275ce0193acf?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 26 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Baton Rouge](https://jobright.ai/jobs/info/68941a9af47efe2113969405?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Baton Rouge, LA | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
