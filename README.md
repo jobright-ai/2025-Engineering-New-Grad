@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LeafFilter - Installer - Nashville](https://jobright.ai/jobs/info/68971b241b9e81727f19370b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lebanon, TN | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Everett](https://jobright.ai/jobs/info/68cbb7d5ba798c1a501d450c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Mukilteo, WA | On Site | Oct 26 |
 | **[Scripps Health](http://www.scripps.org)** | **[New Grad - Rad Tech](https://jobright.ai/jobs/info/68c41dc8e396b25cb5c659a4?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | La Jolla, CA | On Site | Oct 26 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Cath Lab Tech Full Time](https://jobright.ai/jobs/info/688b1c8d9f961617fe221b03?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
