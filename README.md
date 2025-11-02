@@ -110,7 +110,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LeafFilter - Installer - Eau Claire](https://jobright.ai/jobs/info/689197254c7e851b90ad0360?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Altoona, WI | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Rochester](https://jobright.ai/jobs/info/6894a0ee8c6d6b4426773091?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, NY | On Site | Oct 26 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MRI Technologist](https://jobright.ai/jobs/info/68da524f6df7b8311bb0e85c?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Billings, MT | On Site | Oct 26 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Raleigh](https://jobright.ai/jobs/info/68ca3931d4187c55157a8469?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raleigh, NC | On Site | Oct 26 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Converting Maintenance Tech](https://jobright.ai/jobs/info/68a8cd016acf96396f722f09?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Plattsburgh, NY | Hybrid | Oct 26 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Charlotte](https://jobright.ai/jobs/info/68971e178c6d6b4426784e49?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Huntersville, NC | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
