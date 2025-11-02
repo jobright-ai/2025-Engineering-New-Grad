@@ -115,8 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Charlotte](https://jobright.ai/jobs/info/68971e178c6d6b4426784e49?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Huntersville, NC | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - St. Charles](https://jobright.ai/jobs/info/6889b98309808a6103e4aea2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, MN | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Seattle](https://jobright.ai/jobs/info/68941bdba9199876488e28ee?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Auburn, WA | On Site | Oct 26 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Technologist - GIG/Flex/Per Diem/PRN - Ada, OK](https://jobright.ai/jobs/info/68c522587d0db41142732c35?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Ada, OK | On Site | Oct 26 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Phoenix](https://jobright.ai/jobs/info/68cee4e5dbd9fb154ede3789?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Phoenix, AZ | On Site | Oct 26 |
-| ↳ | **[LeafFilter - Installer - Maryland](https://jobright.ai/jobs/info/689720b31b9e81727f1941c2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Hanover, MD | On Site | Oct 26 |
-| ↳ | **[LeafFilter - Installer - Nashville](https://jobright.ai/jobs/info/68971b241b9e81727f19370b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lebanon, TN | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
