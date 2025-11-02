@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Green Bay](https://jobright.ai/jobs/info/6892f764f47efe21139614e6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Appleton, WI | On Site | Nov 02 |
 | **[SiriusXM](http://siriusxm.com)** | **[Coordinator, Music Programming](https://jobright.ai/jobs/info/68ccae82128dc347fd9283b1?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Roku](https://www.roku.com)** | **[Machine Learning Engineer, Roku TV](https://jobright.ai/jobs/info/689505718c6d6b4426776acd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | San Jose, CA | On Site | Nov 01 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Leaf Home Lighting - Installer - Springfield](https://jobright.ai/jobs/info/68adf601758f2e4ac300fdf7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Springfield, MO | On Site | Oct 31 |
