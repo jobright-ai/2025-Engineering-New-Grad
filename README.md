@@ -113,6 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Raleigh](https://jobright.ai/jobs/info/68ca3931d4187c55157a8469?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Raleigh, NC | On Site | Oct 26 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Converting Maintenance Tech](https://jobright.ai/jobs/info/68a8cd016acf96396f722f09?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Plattsburgh, NY | Hybrid | Oct 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Charlotte](https://jobright.ai/jobs/info/68971e178c6d6b4426784e49?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Huntersville, NC | On Site | Oct 26 |
-| ↳ | **[LeafFilter - Installer - St. Charles](https://jobright.ai/jobs/info/6889b98309808a6103e4aea2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Rochester, MN | On Site | Oct 26 |
-| ↳ | **[LeafFilter - Installer - Seattle](https://jobright.ai/jobs/info/68941bdba9199876488e28ee?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Auburn, WA | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
