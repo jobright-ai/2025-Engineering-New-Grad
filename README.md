@@ -110,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Boston](https://jobright.ai/jobs/info/6895870b8c6d6b442677aa2a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Wilmington, MA | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Bloomington](https://jobright.ai/jobs/info/6897252f1b9e81727f194a0a?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Peoria, IL | On Site | Oct 26 |
 | ↳ | **[LeafFilter - Installer - Fresno](https://jobright.ai/jobs/info/68956e8a4ed2ea559ca55c43?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Fresno, CA | On Site | Oct 26 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Sterilization Tech 2, Surgery, $5000 Bonus,FT, 3P-11:30P](https://jobright.ai/jobs/info/688c73af1808534a89cbc39e?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Coral Gables, FL | On Site | Oct 26 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Beaumont](https://jobright.ai/jobs/info/688b0956aab47a17f670def6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Beaumont, TX | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
