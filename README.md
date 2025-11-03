@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Dallas](https://jobright.ai/jobs/info/68a71bbc33dd7158bbca48db?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Grand Prairie, TX | On Site | Nov 03 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Fort Lauderdale](https://jobright.ai/jobs/info/689722de1b9e81727f194705?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Deerfield Beach, FL | On Site | Nov 02 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Corpus Christi](https://jobright.ai/jobs/info/68c8e2e7983e6768bc552df2?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Corpus Christi, TX | On Site | Nov 02 |
+| ↳ | **[LeafFilter - Installer - Fort Lauderdale](https://jobright.ai/jobs/info/689722de1b9e81727f194705?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Deerfield Beach, FL | On Site | Nov 02 |
 | **[Retail Options](http://www.retailoptions.com)** | **[Radiation Therapy Technologist](https://jobright.ai/jobs/info/68d632c1ebcef82ef5cf78fa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Watertown, NY | On Site | Nov 02 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Electrical Tech A](https://jobright.ai/jobs/info/68cc323016d00d2beeb1b6a9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Wheatland, PA | On Site | Nov 02 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist](https://jobright.ai/jobs/info/68a22b2383d13d1f5b6d5914?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Greater St. Louis | On Site | Nov 02 |
