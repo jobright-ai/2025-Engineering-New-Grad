@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Cardiovascular Technologist](https://jobright.ai/jobs/info/6836728e08c8d881ec165da7?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Portland, OR | On Site | Oct 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/66c561eb60544c52d762dccd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pasadena, CA | On Site | Oct 28 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Environmental Svcs Tech](https://jobright.ai/jobs/info/68d765667a37c712687cb807?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 27 |
-| **[Cooley LLP](http://www.cooley.com)** | **[Patent Agent/Advisor (Electrical/Mechanical)](https://jobright.ai/jobs/info/68c2d7d963829b0a8a4fd57b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Reston, VA | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
