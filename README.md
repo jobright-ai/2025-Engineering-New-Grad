@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Dallas](https://jobright.ai/jobs/info/68a71bbc33dd7158bbca48db?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Grand Prairie, TX | On Site | Nov 03 |
 | **[Retail Options](http://www.retailoptions.com)** | **[Radiation Therapy Technologist](https://jobright.ai/jobs/info/68d632c1ebcef82ef5cf78fa?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Watertown, NY | On Site | Nov 02 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Electrical Tech A](https://jobright.ai/jobs/info/68cc323016d00d2beeb1b6a9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Wheatland, PA | On Site | Nov 02 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist](https://jobright.ai/jobs/info/68a22b2383d13d1f5b6d5914?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Greater St. Louis | On Site | Nov 02 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Bowman Consulting](https://bowman.com)** | **[Fire Protection Consultant - Johns Creek, GA](https://jobright.ai/jobs/info/68cda6b0e23def7af55bd518?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Johns Creek, GA | On Site | Nov 02 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Installer - Nebraska](https://jobright.ai/jobs/info/68943735a9199876488e3813?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Omaha, NE | On Site | Nov 02 |
 | ↳ | **[LeafFilter - Installer - Green Bay](https://jobright.ai/jobs/info/6892f764f47efe21139614e6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Appleton, WI | On Site | Nov 02 |
+| ↳ | **[LeafFilter - Installer - Joliet](https://jobright.ai/jobs/info/689587634ed2ea559ca56b3b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Joliet, IL | On Site | Nov 02 |
 | ↳ | **[LeafFilter - Installer - Norfolk](https://jobright.ai/jobs/info/689180b34c7e851b90acf4a6?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Norfolk, VA | On Site | Nov 02 |
 | ↳ | **[LeafFilter - Installer - Chicago](https://jobright.ai/jobs/info/68971c221b9e81727f19394b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Lombard, IL | On Site | Nov 02 |
 | **[Blattner](https://www.blattnercompany.com)** | **[WIND: Civil/Grading/ Structures Laborer (United States)](https://jobright.ai/jobs/info/676a6ddcc4ea1d16b72d4d27?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Minnesota, United States | On Site | Nov 02 |
@@ -121,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Exotiuc Animals Conservation in Hawaii](https://jobright.ai/jobs/info/66c561eb60544c52d762dccd?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pasadena, CA | On Site | Oct 28 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Environmental Svcs Tech](https://jobright.ai/jobs/info/68d765667a37c712687cb807?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Houston, TX | On Site | Oct 27 |
 | **[Cooley LLP](http://www.cooley.com)** | **[Patent Agent/Advisor (Electrical/Mechanical)](https://jobright.ai/jobs/info/68c2d7d963829b0a8a4fd57b?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Reston, VA | On Site | Oct 27 |
-| **[Central Garden & Pet](http://www.central.com)** | **[Production Worker](https://jobright.ai/jobs/info/6718d342873da776e9940ff9?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Stephen, MN | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
