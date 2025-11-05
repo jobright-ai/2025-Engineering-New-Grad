@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Patient First](http://www.patientfirst.com)** | **[X-ray Technologist](https://jobright.ai/jobs/info/685a463c74c42892a4bda0fb?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Pennsylvania, United States | On Site | Oct 29 |
 | **[PepsiCo](http://www.pepsico.com)** | **[Mfg Assoc Certifier](https://jobright.ai/jobs/info/68cf5c19dbd9fb154ede73ef?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Syracuse, NY | On Site | Oct 29 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate DevOps Engineer (5670)](https://jobright.ai/jobs/info/67abc462eb48868591a85012?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Quantico, VA | Hybrid | Oct 29 |
-| **[CentroMotion](https://www.centromotion.com/contact/)** | **[Technical Machine Operator, Press Operator](https://jobright.ai/jobs/info/68c87bbd983e6768bc54e0ae?utm_campaign=Engineering%20and%20Development&utm_source=1103)** | Medina, OH | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
